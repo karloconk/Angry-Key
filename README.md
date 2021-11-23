@@ -1,16 +1,14 @@
 <!-- Created by Karlo -->
 
-# 🔑 High Concept:
+# 🔑 Angry Key:
 
-This game is about an angry key, floating inside a magic orb that has taken the task to open a door which was never opened. The game is themed in the original game boy aesthetic, more info on that in the references section.
+## 🔮 High Concept
 
-## How to Play:
-------------
+Angry Key is about an angry key, floating inside a magic orb that has taken the task to open a door which was never opened, and now seeks the door to fulfill its destiny.
 
-* To read about controls and info please refer to the instructions section in-game.
+## 🧐 Special Notices and References:
 
-## References:
-------------
+* The game is themed in the original game boy aesthetic
 
 * For the actual shaders and materials used to achieve gameboy flavour, the following tutorial was followed:
 
@@ -33,5 +31,3 @@ This game is about an angry key, floating inside a magic orb that has taken the 
 * Music made and edited by myself:
         
         https://soundcloud.com/dr-kalavera/rosebud
-
-* Have fun!
