@@ -1,9 +1,8 @@
 <!-- Created by Karlo -->
 
-# Game information:
+# 🔑 High Concept:
 
 This game is about an angry key, floating inside a magic orb that has taken the task to open a door which was never opened. The game is themed in the original game boy aesthetic, more info on that in the references section.
-
 
 ## How to Play:
 ------------
@@ -30,6 +29,7 @@ This game is about an angry key, floating inside a magic orb that has taken the 
         https://www.dafont.com/8bit-wonder.font 
 
 * Audio FX made and edited by myself.
+* This Game was an assignment at VFS.
 * Music made and edited by myself:
         
         https://soundcloud.com/dr-kalavera/rosebud
